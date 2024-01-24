@@ -1,7 +1,7 @@
 import io.qameta.allure.gradle.base.AllureExtension
 
 plugins {
-    kotlin("jvm") version "1.9.21"
+    kotlin("jvm") version "1.9.22"
     id("io.qameta.allure") version "2.11.2"
     id("com.github.ben-manes.versions") version "0.11.1"
 }
